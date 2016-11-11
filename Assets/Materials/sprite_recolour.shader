@@ -3,7 +3,7 @@
 	Properties
 	{
 		_MainTex ("Reference Sprite", 2D) = "white" {}
-		_PaletteTex ("Palette", 2D) = "white" {}
+		[NoScaleOffset] _PaletteTex ("Palette", 2D) = "white" {}
 	}
 	SubShader
 	{
