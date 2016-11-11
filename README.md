@@ -3,6 +3,8 @@
 This is a demonstration Unity project for [SpriteRecolour](https://github.com/sinbad/spriterecolour)
 command line tool.
 
+![Example](SpriteRecolourAnimated.gif)
+
 From any sprite, a 'reference' sprite is generated which indexes either a
 palette texture, or an array of shader parameters, either of which can then be
 swapped to recolour the sprites without any additional copies of the sprite
